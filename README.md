@@ -1,5 +1,12 @@
 # Hackintosh-12400-MSI-B660M-MORTAR-MAX-WIFI-D4-5700XT
 
+### 日志
+
+- 2024/6/21
+  - 更新 `OpenCore` `v1.0.0`
+  - 支持 Sonoma
+  - 免驱网卡记得安装后打一下 `OCLP`
+
 ### 配置
 
 | 配置 | 型号                           | 价格   |
